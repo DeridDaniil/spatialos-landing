@@ -3,8 +3,8 @@ import { Github, ExternalLink } from "lucide-react";
 import { handleAnchorClick, scrollToTop } from "../lib/scroll";
 
 // Replace with live GitHub and portfolio URLs before final public release.
-const GITHUB_URL = "/#top";
-const PORTFOLIO_URL = "/#top";
+const GITHUB_URL = "https://github.com/DeridDaniil/spatialos-landing";
+const PORTFOLIO_URL = "https://github.com/DeridDaniil";
 
 type FooterLink = { label: string; href: string };
 

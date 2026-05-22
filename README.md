@@ -4,6 +4,8 @@ A premium, Apple-like **spatial computing concept landing page** — a calmer, d
 
 This is a **portfolio / concept project**: a self-contained frontend piece built to demonstrate refined UI craft — clean composition, soft motion, and considered typography in a fully responsive Vite + React app.
 
+**URL**: https://spatialos-landing.vercel.app/
+
 ## Stack
 
 - **React 18** + **TypeScript**
